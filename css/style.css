@@ -1,0 +1,48 @@
+/*
+
+green: #D1E751;
+blue1: #4DBCE9;
+blue2: #26ADE4;;
+
+*/
+
+body {
+  background: url(/img/grey.png);
+  color: #2A2829;
+}
+
+#title {
+  font-family: Passero One;
+  font-size: 5em;
+  margin: 100px auto 0;
+  text-align: center;
+  width: 500px;
+  border-bottom: 3px dashed #B9D7D9;
+}
+
+#intro-text {
+  font-family: Numans;
+  font-size: 1.5em;
+  text-align: center;
+  width: 700px;
+  margin: 18px auto;
+  color: #7B3B3B;
+}
+
+#social {
+  width: 200px;
+  margin: 25px auto;
+  text-align: center;
+}
+
+#social .typcn {
+  font-size: 3.5em;
+  display: inline-block;
+  color: #ccc;
+  margin: 0 12px;
+}
+
+#social .typcn:hover {
+  cursor: pointer;
+  color: #668284;
+}
